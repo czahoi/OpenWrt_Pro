@@ -1,1 +1,1 @@
-# x64_passwallOpenWrt
+# OpenWrt_Pro
