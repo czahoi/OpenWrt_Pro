@@ -2,7 +2,7 @@
 ![状态1](https://user-images.githubusercontent.com/73426989/196149515-3fe1402a-a161-4441-bd30-17ba4eda9dda.png)
 ![系统](https://user-images.githubusercontent.com/73426989/196149688-11146636-2485-4baf-9da4-4ea967b690ba.png)
 ![服务1](https://user-images.githubusercontent.com/73426989/196149944-cfa9b41a-16d2-4f0c-83c3-944138de5787.png)
-![服务2](https://user-images.githubusercontent.com/73426989/191004409-544c769a-fb41-47be-b1fb-99d8cdbb04e9.png)
+![服务2](https://user-images.githubusercontent.com/73426989/196150222-21f3342a-7d37-4138-a415-4ae9904efbdb.png)
 ![网络存储](https://user-images.githubusercontent.com/73426989/191004468-c9121afc-3afd-4d38-8843-8042a4c18859.png)
 ![VPN](https://user-images.githubusercontent.com/73426989/191004504-14e70ae9-aee8-4ba8-aa08-f24fe0f80b8d.png)
 ![网络](https://user-images.githubusercontent.com/73426989/191004546-3e85ec66-6b22-4647-8f85-98c2e7d2be6f.png)
