@@ -1,6 +1,4 @@
 # OpenWrt_Pro
-支持设备：         
-x64 
 
 插件预览：           
 [插件预览](https://github.com/BingMeme/OpenWrt_Pro/blob/main/preview.md)
